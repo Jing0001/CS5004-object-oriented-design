@@ -1,0 +1,20 @@
+public enum Type {
+    HAWKS,
+    EAGLES,
+    OSPREY,
+    EMUS,
+    KIWIS,
+    MOAS,
+    OWLS,
+    ROSE_RING_PARAKEET,
+    GRAY_PARROT,
+    SULFUR_CRESTED_COCKATOO,
+    PIGEONS,
+    GREAT_AUK,
+    HORNED_PUFFIN,
+    AFRICAN_JACANA,
+    DUCKS,
+    SWANS,
+    GEESE
+}
+
